@@ -1,6 +1,6 @@
 import telepot
 import sys, time
-from config import TOKEN
+from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 from pprint import pprint
 
 bot = telepot.Bot("TOKEN") #inserire il Token del bot fornito da BotFather.
