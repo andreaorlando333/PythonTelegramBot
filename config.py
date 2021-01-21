@@ -9,5 +9,5 @@ from pprint import pprint
 TOKEN = "inserire token qui"
 ONLINE = true # Bot acceso/spento 
 SEND_MSG = true # Bot abilitato ad invio messaggi
-keyboard = 'inline'
+keyboard = 'inline' # Tastiera inline
 
